@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Juan</h1>
 <h3 align="center">Estudante de Ciência da Computação na Universidade Federal de Viçosa</h3>
 
-- 🌱 Atualmente estou aprendendo **Desenvolvimento Web & Testes de Software.**
+- 🌱 Atualmente estou estudando **Desenvolvimento Web & Testes de Software.**
 
 - 👨‍💻 Meus projetos estão disponíveis em: [https://github.com/ojuanfreire?tab=repositories](https://github.com/ojuanfreire?tab=repositories)
 
