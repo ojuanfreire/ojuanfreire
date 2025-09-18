@@ -85,19 +85,3 @@ I'm a Computer Science undergraduate student at the Federal University of Viços
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
 />
-
-<br/>
-<br/>
-
----
-
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuanfreire&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-
-</p>
